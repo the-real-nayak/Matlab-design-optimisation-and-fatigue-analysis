@@ -63,4 +63,4 @@ For a deep dive into the engineering math, see [METHODOLOGY.md](./METHODOLOGY.md
 ---
 
 ## 📧 Contact
-Created by [Your Name] – feel free to reach out for design inquiries or collaboration!
+Created by Krishna Kumar Nayak and Neha Verma – feel free to reach out for design inquiries or collaboration!
